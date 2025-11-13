@@ -1,3 +1,6 @@
+## Note
+I kinda stopped making icons because i only use the arch and windows ones. Maybe i'll add some in the future, if i ever have nothing else to do.
+
 ## How to install
 
 1. Locate your refind EFI directory. This is commonly `/boot/EFI/refind` though it will depend on where you mount your ESP and where rEFInd is installed.
