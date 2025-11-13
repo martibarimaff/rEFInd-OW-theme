@@ -9,4 +9,4 @@ I kinda stopped making icons because i only use the arch and windows ones. Maybe
 
 3. Clone this repository into the `themes` directory.
 
-4. To enable the theme add include `themes/rEFInd-OW-theme/theme.conf` at the end of `refind.conf`.
+4. To enable the theme add `include themes/rEFInd-OW-theme/theme.conf` at the end of `refind.conf`.
